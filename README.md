@@ -1,0 +1,2 @@
+# ImageStorage
+Images for bot
